@@ -17,6 +17,7 @@ binary trees :)
 ## Step 1
 
 ![Step 1](docs/step1.png)
+Created simple product cards
 
 ## Step 2
 
